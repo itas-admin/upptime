@@ -27,10 +27,10 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /upptime
+  baseUrl: https://itas-admin.github.io/upptime/
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
-  name: Upptime
+  name: ITAS Upptime
   introTitle: "Uptime monitor and status page for the  **_Information Technology & Applied Systems (ITAS)_**  Program of Vancouver Island University.<br>"
   introMessage: This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
