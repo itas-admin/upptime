@@ -32,13 +32,14 @@ status-website:
   logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
   name: Status
   introTitle: "Uptime monitor and status page for the  **_Information Technology & Applied Systems (ITAS)_**  Program of Vancouver Island University."
-  introMessage: "This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/).<br> 
-  No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)"
+  introMessage: "This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)"
   navbar:
     - title: Status
       href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: "ITAS Website"
+      href: https://www.itas.ca/
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
