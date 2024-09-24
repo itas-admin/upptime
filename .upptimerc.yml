@@ -3,7 +3,7 @@ owner: itas-admin # Your GitHub organization or username, where this repository 
 repo: upptime # The name of this repository
 
 sites:
-  - name: Portal
+  - name: ITAS Portal
     url: https://portal.itas.ca
   - name: ITAS Help Desk
     url: https://help.itas.ca
@@ -31,9 +31,8 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page for the  ***Information Technology & Applied Systems (ITAS)***  Program of Vancouver Island University.<br><br>  
-  **Upptime** is powered entirely by GitHub."
-  introMessage: This is an ITAS Infrastructure status page which uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "Uptime monitor and status page for the  **_Information Technology & Applied Systems (ITAS)_**  Program of Vancouver Island University.<br>"
+  introMessage: This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
