@@ -22,7 +22,7 @@ status-website:
   baseUrl: /
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   #logoUrl: https://www.itas.ca/ITAS_Logo_100x100.jpg
-  logoURL: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
+  logoURL: https://github.com/itas-admin/upptime/upptime/assets/ITAS_Logo_100x100.jpg
   favicon: https://www.itas.ca/ITAS_Logo_100x100.jpg
   #theme: light
   #theme: dark
