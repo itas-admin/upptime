@@ -21,9 +21,9 @@ status-website:
   # cname: status.itas.ca
   baseUrl: /upptime
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #logoUrl: https://www.itas.ca/ITAS_Logo_100x100.jpg
+  logoUrl: https://www.itas.ca/ITAS_Logo_100x100.jpg
   #logoUrl: https://github.com/itas-admin/upptime/assets/ITAS_Logo_100x100.jpg
-  logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
+  #logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
   #logoUrl: /assets/ITAS_Logo_100x100.jpg
   favicon: https://www.itas.ca/ITAS_Logo_100x100.jpg
   #favicon: /assets/ITAS_Logo_100x100.jpg
