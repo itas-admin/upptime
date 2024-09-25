@@ -9,14 +9,6 @@ sites:
     url: https://help.itas.ca
   - name: ITAS Website
     url: https://www.itas.ca
-#  - name: Google
-#    url: https://www.google.com
-#  - name: Wikipedia
-#    url: https://en.wikipedia.org
-#  - name: Hacker News
-#    url: https://news.ycombinator.com
-#  - name: Test Broken Site
-#    url: https://thissitedoesnotexist.koj.co
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
@@ -32,10 +24,10 @@ status-website:
   logoUrl: https://itas-admin.github.io/upptime/assets/ITAS_Logo_100x100.jpg
   name: Status
   introTitle: "Uptime monitor and status page for the  **Information Technology & Applied Systems (ITAS)**  Program of Vancouver Island University."
-  introMessage: "This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)"
+  introMessage: "This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/).  No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)"
   navbar:
-    - title: Status
-      href: /upptime
+    - title: StatusPage
+      href: https://itas-admin.github.io/upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
     - title: "ITAS Website"
