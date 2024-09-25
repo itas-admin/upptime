@@ -30,7 +30,7 @@ status-website:
   #theme: light
   #theme: dark
   #theme: night
-  theme: ocean
+  #theme: ocean
   name: ITAS Status Page
   introTitle: Uptime monitor and status page for the  **Information Technology & Applied Systems - ITAS**  Program of Vancouver Island University.
   introMessage: This ITAS Infrastructure status page uses **real-time** data from our [GitHub repository](https://itas-admin.github.io/upptime/).<br>  No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime).
