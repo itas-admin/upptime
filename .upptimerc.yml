@@ -21,14 +21,14 @@ status-website:
   # cname: status.itas.ca
   baseUrl: /
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  #logoUrl: https://www.itas.ca/ITAS_Logo_100x100.jpg
-  #logoURL: https://github.com/itas-admin/upptime/upptime/assets/ITAS_Logo_100x100.jpg
-  logoURL: /assets/ITAS_Logo_100x100.jpg
-  #favicon: https://www.itas.ca/ITAS_Logo_100x100.jpg
-  favicon: /assets/ITAS_Logo_100x100.jpg
+  logoUrl: https://www.itas.ca/ITAS_Logo_100x100.jpg
+  #logoURL: https://github.com/itas-admin/upptime/assets/ITAS_Logo_100x100.jpg
+  #logoURL: /assets/ITAS_Logo_100x100.jpg
+  favicon: https://www.itas.ca/ITAS_Logo_100x100.jpg
+  #favicon: /assets/ITAS_Logo_100x100.jpg
   #theme: light
-  #theme: dark
-  theme: night
+  theme: dark
+  #theme: night
   #theme: ocean
   name: ITAS Status Page
   introTitle: Uptime monitor and status page for the  **Information Technology & Applied Systems - ITAS**  Program of Vancouver Island University.
