@@ -4,7 +4,7 @@
     "url": "https://portal.itas.ca",
     "icon": "https://icons.duckduckgo.com/ip3/portal.itas.ca.ico",
     "slug": "itas-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -12,10 +12,12 @@
     "uptimeYear": "100.00%",
     "time": 598,
     "timeDay": 725,
-    "timeWeek": 594,
+    "timeWeek": 598,
     "timeMonth": 598,
     "timeYear": 598,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-02": 0
+    }
   },
   {
     "name": "ITAS Help Desk",
@@ -30,7 +32,7 @@
     "uptimeYear": "100.00%",
     "time": 440,
     "timeDay": 508,
-    "timeWeek": 425,
+    "timeWeek": 422,
     "timeMonth": 440,
     "timeYear": 440,
     "dailyMinutesDown": {}
@@ -48,7 +50,7 @@
     "uptimeYear": "100.00%",
     "time": 1697,
     "timeDay": 1373,
-    "timeWeek": 1700,
+    "timeWeek": 1613,
     "timeMonth": 1697,
     "timeYear": 1697,
     "dailyMinutesDown": {}
