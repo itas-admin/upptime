@@ -4,19 +4,19 @@
     "url": "https://portal.itas.ca",
     "icon": "https://icons.duckduckgo.com/ip3/portal.itas.ca.ico",
     "slug": "itas-portal",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 598,
-    "timeDay": 725,
-    "timeWeek": 598,
-    "timeMonth": 598,
-    "timeYear": 598,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "98.25%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 602,
+    "timeDay": 745,
+    "timeWeek": 607,
+    "timeMonth": 602,
+    "timeYear": 602,
     "dailyMinutesDown": {
-      "2024-10-02": 0
+      "2024-10-02": 25
     }
   },
   {
