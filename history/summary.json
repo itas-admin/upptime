@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal.itas.ca.ico",
     "slug": "itas-portal",
     "status": "up",
-    "uptime": "99.76%",
+    "uptime": "99.78%",
     "uptimeDay": "98.25%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.76%",
-    "uptimeYear": "99.76%",
-    "time": 602,
-    "timeDay": 745,
-    "timeWeek": 607,
-    "timeMonth": 602,
-    "timeYear": 602,
+    "uptimeMonth": "99.78%",
+    "uptimeYear": "99.78%",
+    "time": 605,
+    "timeDay": 748,
+    "timeWeek": 648,
+    "timeMonth": 605,
+    "timeYear": 605,
     "dailyMinutesDown": {
       "2024-10-02": 25
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 440,
-    "timeDay": 508,
-    "timeWeek": 422,
-    "timeMonth": 440,
-    "timeYear": 440,
+    "time": 441,
+    "timeDay": 494,
+    "timeWeek": 438,
+    "timeMonth": 441,
+    "timeYear": 441,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1697,
-    "timeDay": 1373,
-    "timeWeek": 1613,
-    "timeMonth": 1697,
-    "timeYear": 1697,
+    "time": 1687,
+    "timeDay": 1271,
+    "timeWeek": 1294,
+    "timeMonth": 1687,
+    "timeYear": 1687,
     "dailyMinutesDown": {}
   }
 ]
