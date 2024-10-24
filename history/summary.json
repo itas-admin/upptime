@@ -42,17 +42,19 @@
     "url": "https://www.itas.ca",
     "icon": "https://icons.duckduckgo.com/ip3/www.itas.ca.ico",
     "slug": "itas-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1646,
-    "timeDay": 1159,
-    "timeWeek": 2006,
-    "timeMonth": 1646,
-    "timeYear": 1646,
-    "dailyMinutesDown": {}
+    "time": 1626,
+    "timeDay": 767,
+    "timeWeek": 1802,
+    "timeMonth": 1626,
+    "timeYear": 1626,
+    "dailyMinutesDown": {
+      "2024-10-24": 0
+    }
   }
 ]
