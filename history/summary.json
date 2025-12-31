@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "98.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeWeek": "99.72%",
     "uptimeMonth": "97.05%",
-    "uptimeYear": "98.46%",
+    "uptimeYear": "98.73%",
     "time": 651,
-    "timeDay": 536,
-    "timeWeek": 589,
+    "timeDay": 596,
+    "timeWeek": 583,
     "timeMonth": 601,
     "timeYear": 656,
     "dailyMinutesDown": {
@@ -50,8 +50,7 @@
       "2025-03-05": 81,
       "2025-03-04": 78,
       "2025-03-01": 18,
-      "2025-01-31": 28,
-      "2024-12-31": 1162
+      "2025-01-31": 28
     }
   },
   {
@@ -60,15 +59,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.itas.ca.ico",
     "slug": "itas-help-desk",
     "status": "up",
-    "uptime": "86.54%",
+    "uptime": "86.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.85%",
-    "uptimeYear": "83.01%",
+    "uptimeYear": "83.28%",
     "time": 410,
-    "timeDay": 345,
-    "timeWeek": 360,
-    "timeMonth": 343,
+    "timeDay": 375,
+    "timeWeek": 371,
+    "timeMonth": 344,
     "timeYear": 405,
     "dailyMinutesDown": {
       "2025-12-17": 184,
@@ -140,8 +139,7 @@
       "2025-03-16": 1440,
       "2025-03-15": 1440,
       "2025-03-14": 468,
-      "2025-01-31": 28,
-      "2024-12-31": 1164
+      "2025-01-31": 28
     }
   },
   {
@@ -154,12 +152,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.63%",
-    "uptimeYear": "99.37%",
-    "time": 1516,
-    "timeDay": 1299,
-    "timeWeek": 1232,
-    "timeMonth": 1384,
-    "timeYear": 1558,
+    "uptimeYear": "99.64%",
+    "time": 1515,
+    "timeDay": 1134,
+    "timeWeek": 1217,
+    "timeMonth": 1376,
+    "timeYear": 1556,
     "dailyMinutesDown": {
       "2025-12-17": 202,
       "2025-12-05": 398,
@@ -170,8 +168,7 @@
       "2025-05-05": 19,
       "2025-03-21": 22,
       "2025-03-14": 19,
-      "2025-01-31": 27,
-      "2024-12-31": 1167
+      "2025-01-31": 27
     }
   }
 ]
