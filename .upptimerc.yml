@@ -9,8 +9,10 @@ sites:
     url: https://help.itas.ca
   - name: ITAS Website
     url: https://www.itas.ca
-  - name: ITAS Files
-    url: https://files.itas.ca
+#  - name: ITAS Files
+#    url: https://files.itas.ca
+#
+
 #  - name: IPv6 test
 #    url: forwardemail.net
 #    port: 80
