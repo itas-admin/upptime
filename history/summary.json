@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.66%",
     "time": 721,
-    "timeDay": 779,
-    "timeWeek": 677,
-    "timeMonth": 629,
-    "timeYear": 734,
+    "timeDay": 704,
+    "timeWeek": 717,
+    "timeMonth": 637,
+    "timeYear": 735,
     "dailyMinutesDown": {
       "2026-04-01": 47,
       "2026-03-29": 49,
@@ -47,8 +47,7 @@
       "2025-06-07": 1440,
       "2025-06-06": 422,
       "2025-05-19": 83,
-      "2025-05-16": 27,
-      "2025-05-05": 19
+      "2025-05-16": 27
     }
   },
   {
@@ -57,18 +56,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/help.itas.ca.ico",
     "slug": "itas-help-desk",
     "status": "up",
-    "uptime": "86.33%",
+    "uptime": "86.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "65.57%",
-    "uptimeYear": "81.83%",
+    "uptimeMonth": "62.32%",
+    "uptimeYear": "81.56%",
     "time": 402,
-    "timeDay": 375,
-    "timeWeek": 407,
-    "timeMonth": 403,
-    "timeYear": 391,
+    "timeDay": 467,
+    "timeWeek": 431,
+    "timeMonth": 404,
+    "timeYear": 392,
     "dailyMinutesDown": {
-      "2026-05-04": 214,
+      "2026-05-05": 201,
+      "2026-05-04": 1440,
       "2026-05-03": 1440,
       "2026-05-02": 1440,
       "2026-05-01": 1440,
@@ -152,16 +152,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.itas.ca.ico",
     "slug": "itas-website",
     "status": "up",
-    "uptime": "95.95%",
+    "uptime": "95.96%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "90.15%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "86.32%",
     "uptimeYear": "93.99%",
     "time": 1680,
-    "timeDay": 1341,
-    "timeWeek": 1145,
-    "timeMonth": 1320,
-    "timeYear": 1839,
+    "timeDay": 1407,
+    "timeWeek": 1197,
+    "timeMonth": 1297,
+    "timeYear": 1841,
     "dailyMinutesDown": {
       "2026-04-27": 1206,
       "2026-04-26": 1440,
@@ -194,8 +194,7 @@
       "2025-11-05": 22,
       "2025-09-17": 30,
       "2025-07-26": 58,
-      "2025-05-16": 28,
-      "2025-05-05": 19
+      "2025-05-16": 28
     }
   }
 ]
