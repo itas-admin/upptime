@@ -1,7 +1,7 @@
 url: https://portal.itas.ca
-status: up
-code: 200
-responseTime: 697
-lastUpdated: 2026-10-11T01:27:37.015Z
+status: down
+code: 500
+responseTime: 296
+lastUpdated: 2026-10-11T07:09:23.203Z
 startTime: 2024-09-24T22:40:35.697Z
 generator: Upptime <https://github.com/upptime/upptime>
